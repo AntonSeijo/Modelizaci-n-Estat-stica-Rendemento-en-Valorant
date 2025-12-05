@@ -26,9 +26,5 @@ The analysis suggests that the fan-made Tier List **does not accurately reflect 
     *   *Language: Galician (Abstract available in English).*
 *   **`analysis_script.R`** 💻
     *   The source code used for data cleaning, model fitting, and plot generation.
-*   **`/plots`** 📊
-    *   Diagnostic plots generated during the study (Regression fit, QQ-plots, etc.).
-
-## 📬 Contact
-**Antón Seijo Barrio**
-*Master's Degree Applicant*
+*   **`Dataset usao.R`** 💻
+    *   The dataset used.
