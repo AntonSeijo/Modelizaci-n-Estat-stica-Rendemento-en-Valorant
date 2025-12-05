@@ -21,10 +21,10 @@ The analysis suggests that the fan-made Tier List **does not accurately reflect 
 
 ## 📂 Repository Contents
 
-*   **`Report_Valorant_Analysis.pdf`** 📕
+*   **`Modelización Estatística Valorant.pdf`** 📕
     *   The full technical report containing the theoretical framework, mathematical formulation, and detailed interpretation of results.
-    *   *Language: Galician (Abstract available in English).*
-*   **`analysis_script.R`** 💻
+    *   *Language: Galician 
+*   **`SCRIPT VALORANT.R`** 💻
     *   The source code used for data cleaning, model fitting, and plot generation.
-*   **`Dataset usao.R`** 💻
+*   **`players_stats_valorant.txt`** 💻
     *   The dataset used.
